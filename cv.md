@@ -17,6 +17,12 @@ Hi, I'm Ana, a junior React JS developer. I hold a Bachelor's degree in Computer
 - Tailwind
 - Shadcn
 
+## Languages
+
+- English (B2)
+- Russian
+- Georgian
+
 <br/><br/><br/>
 
 ---
